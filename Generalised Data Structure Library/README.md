@@ -51,7 +51,7 @@
 
 1. Open a terminal in the project folder.
 2. Compile the program:
-   Linux -> g++ main.cpp -o myexe
-   ./myexe
-   Windows -> g++ main.cpp -o myexe
-   myexe.exe
+   - Linux -> g++ main.cpp -o myexe
+   - run : ./myexe
+   - Windows -> g++ main.cpp -o myexe
+   - run : myexe.exe
