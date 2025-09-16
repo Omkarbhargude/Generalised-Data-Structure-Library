@@ -1,5 +1,5 @@
 /*
-    This generic implementation of Linear and Non-Linear data structure using [T] class :
+    This is generic implementation of Linear and Non-Linear data structure using [T] class :
 
     -> Included Data Structure :
     
