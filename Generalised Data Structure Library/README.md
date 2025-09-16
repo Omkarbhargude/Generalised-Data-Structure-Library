@@ -41,7 +41,13 @@
   - Practical knowledge of searching and sorting algorithm
   - Expirenced in designing resuable libraries for software development.
 
-   
+   ---
+
+## About `main.cpp` 
+
+- `examples/main.cpp` is a **demo program** showing how to use the library’s data structures and algorithms.  
+  It is not a test — it’s meant to help you understand API usage.
+
 ## Requirements
 
 - A C++ compiler (e.g., `g++` version 9 or later)  
