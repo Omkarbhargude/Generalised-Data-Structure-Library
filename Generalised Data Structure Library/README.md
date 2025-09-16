@@ -41,10 +41,19 @@
   - Practical knowledge of searching and sorting algorithm
   - Expirenced in designing resuable libraries for software development.
 
-   # Compile
-   g++ filename.c -o myexe
+   
+## Requirements
 
-   # Run
-   (Windows Platform) -> myexe.exe  
-   (Linux) -> ./myexe
+- A C++ compiler (e.g., `g++` version 9 or later)  
+- Linux, macOS, or Windows with MinGW
+
+## Compilation and Execution
+
+1. Open a terminal in the project folder.
+2. Compile the program:
+   Linux -> g++ main.cpp -o myexe
+            ./myexe
+   Windows -> g++ main.cpp -o myexe
+               myexe.exe
+
 
