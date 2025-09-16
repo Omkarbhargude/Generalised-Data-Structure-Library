@@ -41,7 +41,6 @@
   - Practical knowledge of searching and sorting algorithm
   - Expirenced in designing resuable libraries for software development.
 
--> Run/Compilation Instruction :-
    # Compile
    g++ filename.c -o myexe
 
