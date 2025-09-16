@@ -7,24 +7,6 @@ Each sub-folder is an independent project with its own source files and (if need
 
 ## 📁 Structure
 
-| Level 1 | Level 2 | Level 3 | Level 4 | Notes |
-|---------|---------|---------|---------|-------|
-|         |         |         |         | |
-|         |         |         |         | |
-|         |         |         |         | |
-|         |         |         |         | |
-|         |         |         |         | |
-|         |         |         |         | |
-|         |         |         |         | |
-|         |         |         |         | |
-|         |         |         |         | |
-|         |         |         |         | |
-|         |         |         |         | |
-|         |         |         |         | |
-|         |         |         |         | |
-|         |         |         |         | |
-|         |         |         |         | |
-
 
 ---
 
