@@ -1,63 +1,98 @@
--> Project Name :-  Generalised Data Structure Library
+# Generalised Data Structure Library
 
--> Teachnology  :-  C++ Programming
+## Technology
 
--> Project Overview :-
--  This project is C++ library of generic data structure that provides object-oriented implementation of both linear and non  
-   linear data structure.
--  It offers ready-to-use functionalities for fundamental as well as advanced operations designed in a generic way using
-   template so that they can be reused with any data type
--  The library is designed to support clean OOP principles, modularity, and extensibility making it suitable for both academic
-   learning and real-world application development
+* **Language:** C++
+* **Paradigm:** Object-Oriented Programming (OOP)
+* **Style:** Template-based, generic, reusable
 
--> Key Features :-
+---
 
-  1. Linear Data Structure :
-     - Singly Linear Linked List
-     - Singly Circular Linked List
-     - Doubly Linear Linked List
-     - Doubly Circular Linked List
-     - Stack (LIFO)
-     - Queue (FIFO)
+## Project Overview
 
-  2. Non-Linear Data Structure :
-     - Binary Search Tree (BST) with insert,delete,treversal operations.
-    
-  3. Algorithms :-
-     - Searching (Linear Search, Binary Search etc)
-     - Sorting (Bubble Sort, Insertion Sort, Selection Sort etc)
+The **Generalised Data Structure Library** is a reusable C++ library that provides object-oriented implementations of both **linear** and **non-linear** data structures.
+It offers ready-to-use functionalities for fundamental as well as advanced operations, designed in a **generic way** using C++ templates so they can be reused with any data type.
 
--> Generic Implemention :
-  Uses C++ template for data type independence.
-  Same information work for Integers, floats, string, etc.
+The library follows clean OOP principles, emphasizing **modularity**, **extensibility**, and **reusability**, making it ideal for both academic learning and real-world application development.
 
--> Library Format :-
-  Designed as a reusable C++ library that can ne linked with client application
+---
 
--> Learning Outcomes :-
-  - Mastery of C++ Object-Oriented Programming (OOP).
-  - Strong foundation in linear and non-linear data structuer.
-  - Implementation of generic programming with templates
-  - Practical knowledge of searching and sorting algorithm
-  - Expirenced in designing resuable libraries for software development.
+## Key Features
 
-   ---
+### 1️⃣ Linear Data Structures
 
-## About `main.cpp` 
+* Singly Linear Linked List
+* Singly Circular Linked List
+* Doubly Linear Linked List
+* Doubly Circular Linked List
+* Stack (LIFO)
+* Queue (FIFO)
 
-- `examples/main.cpp` is a **demo program** showing how to use the library’s data structures and algorithms.  
-  It is not a test — it’s meant to help you understand API usage.
+### 2️⃣ Non-Linear Data Structures
+
+* Binary Search Tree (BST)
+
+  * Supports insertion, deletion, and traversal operations
+
+### 3️⃣ Algorithms
+
+* **Searching:** Linear Search, Binary Search
+* **Sorting:** Bubble Sort, Insertion Sort, Selection Sort, etc.
+
+---
+
+## Generic Implementation
+
+* Uses **C++ templates** for data type independence
+* Works seamlessly with integers, floating-point numbers, characters, strings, and custom objects
+
+---
+
+## Library Format
+
+* Packaged as a **reusable C++ library**
+* Can be linked with client applications for integration into larger projects
+
+---
+
+## Learning Outcomes
+
+By using or studying this library, you will:
+
+* Gain mastery over **C++ Object-Oriented Programming** concepts
+* Build a strong foundation in **linear** and **non-linear** data structures
+* Learn to implement **generic programming** with templates
+* Understand and apply **searching and sorting algorithms**
+* Acquire experience in designing **reusable software libraries**
+
+---
+
+## About `main.cpp`
+
+* `examples/main.cpp` is a **demonstration program** that shows how to use the library’s data structures and algorithms.
+* It serves as a guide for API usage, not as a test suite.
+
+---
 
 ## Requirements
 
-- A C++ compiler (e.g., `g++` version 9 or later)  
-- Linux, macOS, or Windows with MinGW
+* A modern C++ compiler (e.g., **g++ 9** or later)
+* Supported platforms: Linux, macOS, Windows (MinGW)
 
-## Compilation and Execution
+---
 
-1. Open a terminal in the project folder.
-2. Compile the program:
-   - Linux -> g++ main.cpp -o myexe
-   - run : ./myexe
-   - Windows -> g++ main.cpp -o myexe
-   - run : myexe.exe
+## Compilation & Execution
+
+### Linux / macOS
+
+```bash
+g++ main.cpp -o myexe
+./myexe
+```
+
+### Windows (MinGW)
+
+```cmd
+g++ main.cpp -o myexe
+myexe.exe
+```
