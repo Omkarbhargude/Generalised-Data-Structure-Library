@@ -87,34 +87,12 @@ g++ main.cpp -o myexe
 myexe.exe
 ```
 
-## 📁 Structure
-
-
----
-
 ## 🛠️ Languages & Tools
 
 - C (GCC / Clang)  
 - C++ (C++17/20)**  
-- Java (JDK 17+)**  
 - Git & GitHub for version control
 
 ---
 
-## ▶️ Running the Projects
-
-1. Navigate to the specific sub-folder you want.
-2. Follow its build/run instructions (many include their own README).
-
-1.   C 
-->   gcc filename.cpp -o myexe
-     (Linux paltform) -> ./myexe   |  (windows platform) -> myexe.exe 
-
-2.  C++
-->  g++ filename.cpp -o myexe
-    (Linux paltform) -> ./myexe   |  (windows platform) -> myexe.exe
-
-3.  Java
-->  javac filename.java
-    java filename
 
